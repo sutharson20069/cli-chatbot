@@ -219,7 +219,7 @@ For issues, questions, or suggestions, please open an issue on GitHub.
 
 ## Author
 
-**Sutharson** - [GitHub](https://github.com/sutharson20069) - sutharson20069@gmail.com
+**Sutharson** - [GitHub](https://github.com/sutharson20069) - sutharsonmohan@gmail.com
 
 ## Acknowledgments
 

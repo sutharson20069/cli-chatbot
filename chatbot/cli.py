@@ -60,7 +60,7 @@ A sophisticated command-line chatbot designed for professional interview scenari
 
 **Version**: 1.0.0
 **Author**: Sutharson
-**Email**: sutharson20069@gmail.com
+**Email**: sutharsonmohan@gmail.com
 
 A professional-grade CLI chatbot designed for interview scenarios.
 Features natural language processing and sophisticated conversation management.

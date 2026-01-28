@@ -7,4 +7,4 @@ capabilities, designed for professional use in interview scenarios.
 
 __version__ = "1.0.0"
 __author__ = "Sutharson"
-__email__ = "sutharson20069@gmail.com"
+__email__ = "sutharsonmohan@gmail.com"
